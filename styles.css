@@ -45,8 +45,39 @@ h2{
 
 .gameOver404{
     background-color: black;
-    margin-left: auto;
-    margin-right: auto;
+    
+}
+
+body.gameOver404{
+    background-color: black;
+}
+
+div.gameOver404{
+    background-color: black;
+    margin: 0;
+    text-align: center;
     color: greenyellow;
     font-family: VT323;
+}
+
+p.gameOver404{
+    background-color: black;
+    margin: 0;
+    text-align: center;
+    color: greenyellow;
+    font-family: VT323;
+    font-size: 20em;
+
+}
+
+.startOver{
+    text-decoration: none;
+    background-color: black;
+    color: greenyellow;
+    font-family: VT323;
+    font-size: 10em;
+}
+.startOver:hover{
+    background-color: greenyellow;
+    color: black;
 }
