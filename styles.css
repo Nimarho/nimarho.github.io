@@ -1,0 +1,44 @@
+body{
+    background-color: #CCFFBD;
+}
+
+table{
+    background-color: #7ECA9C;
+}
+
+h1{
+    color: #1C1427;
+}
+
+h2{
+    color: #40394A;
+}
+
+.nameDiv{
+
+}
+
+.oneSentence{
+    background-color: beige;
+}
+
+.hobbies{
+
+}
+
+.countOnMe{
+    background-color: beige;
+}
+
+.funnyStory{
+    
+}
+
+
+.roundImg{
+    border-radius: 50%;
+}
+
+.inline{
+    display: inline;
+}
